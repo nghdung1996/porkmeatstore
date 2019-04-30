@@ -1,0 +1,1 @@
+{{$user}} đã gửi feedback về sản phẩm http://localhost/eshop/public/products/{{$product}}/show với nội dung "{{$content}}"
